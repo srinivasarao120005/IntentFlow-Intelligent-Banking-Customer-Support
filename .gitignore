@@ -1,0 +1,7 @@
+data/raw/*
+models/*
+reports/figures/*
+reports/*.json
+__pycache__/
+.pytest_cache/
+reports/**/model.joblib
